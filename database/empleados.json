@@ -1,0 +1,24 @@
+{
+    "empleados":[
+        {
+            "id":1,
+            "nombre":"Luisa",
+            "puesto":"Desarrolladora de sistemas"
+        },
+        {
+            "id":2,
+            "nombre":"Juan",
+            "puesto":"Programador Web"
+        },
+        {
+            "id":3,
+            "nombre":"Andrea",
+            "puesto":"MRK"
+        },
+        {
+            "id":4,
+            "nombre":"Karen",
+            "puesto":"Servidores"
+        }
+    ]
+}
